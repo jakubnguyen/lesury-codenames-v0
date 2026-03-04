@@ -1,6 +1,4 @@
 {
-    "buildCommand": "cd ../.. && npx turbo run build --filter=@lesury/web --filter=!@lesury/server",
-    "installCommand": "npm install",
-    "framework": "nextjs",
-    "outputDirectory": ".next"
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
 }
