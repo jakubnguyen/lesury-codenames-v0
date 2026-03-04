@@ -1,0 +1,6 @@
+{
+  "cardsPlaced": 2,
+  "lastCorrect": true,
+  "lives": 3,
+  "status": "revealing"
+}

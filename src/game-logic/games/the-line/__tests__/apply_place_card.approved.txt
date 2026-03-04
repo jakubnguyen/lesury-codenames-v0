@@ -1,0 +1,4 @@
+{
+  "lastAction": "success",
+  "status": "revealing"
+}

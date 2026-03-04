@@ -1,0 +1,501 @@
+id,title,sorting_category,funfact,display_value,unit,sorting_value
+W01,Electron,Weight,The lightest particle; it would take zillions to weigh a gram.,1.00E+00,yoctogram,9.10E-31
+W02,Influenza Virus,Weight,"Viruses are so small they are barely considered ""alive.""",1.00E+00,femtogram,1.00E-19
+W03,Human DNA Cell,Weight,All the instructions for a human in one tiny package.,6.00E+00,nanograms,6.00E-12
+W04,Grain of Sand,Weight,A medium grain of silica beach sand.,50,micrograms,0.00005
+W05,Raindrop,Weight,Typical mass of a droplet falling from a cloud.,200,milligrams,0.0002
+W06,Mosquito,Weight,Most of its weight is the blood it just drank!,3,milligrams,0.0000025
+W07,US Penny,Weight,A standard zinc-plated coin.,3,grams,0.0025
+W08,Hummingbird,Weight,The Bee Hummingbird is lighter than a penny.,2,grams,0.002
+W09,AA Battery,Weight,The standard power source for toys.,23,grams,0.023
+W10,Tennis Ball,Weight,Hollow rubber covered in felt.,58,grams,0.058
+W11,Smartphone,Weight,It gets heavier every year with bigger batteries.,200,grams,0.2
+W12,Human Heart,Weight,"It beats 100,000 times a day.",300,grams,0.3
+W13,Basketball,Weight,Inflated to standard pressure.,620,grams,0.62
+W14,Human Brain,Weight,It feels no pain itself.,1.4,kg,1.4
+W15,Chihuahua,Weight,"Small dog, big attitude.",2,kg,2
+W16,Domestic Cat,Weight,Spend 70% of their lives sleeping.,5,kg,4.5
+W17,Bald Eagle,Weight,"Its nest can weigh 1 ton, but the bird is light.",6,kg,6.3
+W18,Car Tire,Weight,Steel belts make them surprisingly heavy.,10,kg,10
+W19,Gold Bar,Weight,They are much denser and heavier than they look in movies.,12,kg,12.4
+W20,Microwave Oven,Weight,The magnetron inside is the heavy part.,15,kg,15
+W21,Emperor Penguin,Weight,They rely on blubber to survive Antarctic winters.,35,kg,35
+W22,Average Human,Weight,The global average adult weight.,62,kg,62
+W23,Washing Machine,Weight,Filled with concrete weights to stop it shaking.,75,kg,75
+W24,Ostrich,Weight,One kick can kill a lion.,110,kg,110
+W25,Lion,Weight,The King of the Jungle.,190,kg,190
+W26,Grand Piano,Weight,A Steinway Model D Concert Grand.,480,kg,480
+W27,Polar Bear,Weight,The largest land carnivore on Earth.,500,kg,500
+W28,Saltwater Crocodile,Weight,A modern-day dinosaur.,1,tonne,1000
+W29,Mid-Size Car,Weight,"Average sedan (e.g., Toyota Camry).",1.5,tonnes,1500
+W30,White Rhinoceros,Weight,Second largest land mammal.,2.3,tonnes,2300
+W31,T-Rex,Weight,The Lizard King.,8,tonnes,8000
+W32,School Bus,Weight,The classic yellow bus.,11,tonnes,11000
+W33,Big Ben (The Bell),Weight,The bell cracked soon after being installed.,14,tonnes,13760
+W34,Humpback Whale,Weight,"Eats 2,500 kg of krill per day.",30,tonnes,30000
+W35,Boeing 737,Weight,Empty weight without fuel or passengers.,41,tonnes,41000
+W36,Space Shuttle,Weight,The orbiter itself (Endeavour).,78,tonnes,78000
+W37,Blue Whale,Weight,The tongue alone weighs as much as an elephant.,150,tonnes,150000
+W38,General Sherman Tree,Weight,The largest single-stem tree on Earth.,1900,tonnes,1900000
+W39,Saturn V Rocket,Weight,Mostly fuel!,3000,tonnes,2970000
+W40,Eiffel Tower,Weight,"The iron expands in summer, making it taller.",10000,tonnes,10100000
+W41,Titanic,Weight,Deemed unsinkable.,52000,tonnes,52310000
+W42,Great Pyramid,Weight,"Built by paid laborers, not slaves.",6,million tonnes,5.90E+09
+W43,Three Gorges Dam,Weight,The concrete mass of the dam structure.,65,million tonnes,6.50E+10
+W44,Mt. Everest,Weight,The rock mass above sea level.,160,billion tonnes,1.60E+11
+W45,Earth's Atmosphere,Weight,The weight of air pressing down on us.,5,quadrillion tonnes,5.10E+18
+W46,The Moon,Weight,It causes the tides.,7.30E+01,quintillion tonnes,7.30E+22
+W47,The Earth,Weight,Getting slightly lighter as hydrogen escapes.,6.00E+03,quintillion tonnes,5.90E+24
+W48,Jupiter,Weight,More massive than all other planets combined.,2.00E+00,octillion tonnes,1.90E+27
+W49,The Sun,Weight,99.8% of the solar system's mass.,2.00E+03,octillion tonnes,1.90E+30
+W50,Milky Way Galaxy,Weight,Includes Dark Matter.,1.50E+00,trillion solar masses,3.00E+42
+S01,Continental Drift,Speed,Fingernails grow faster than continents move.,2,cm/year,0.0000001
+S02,Bamboo Growth,Speed,Can grow visibly while you watch.,4,cm/hour,0.0004
+S03,Garden Snail,Speed,It leaves a slime trail to glide on.,48,meters/hour,0.048
+S04,Giant Tortoise,Speed,"Can live past 150 years, so no rush.",300,meters/hour,0.3
+S05,House Spider,Speed,Fast bursts of speed to catch prey.,2,km/h,1.9
+S06,Human Swimming,Speed,Average pace for a casual swimmer.,3,km/h,3.2
+S07,Human Walking,Speed,The most efficient transport method in nature.,5,km/h,5
+S08,Black Mamba,Speed,Faster than most people can run.,20,km/h,20
+S09,Usain Bolt,Speed,The fastest human footspeed recorded.,45,km/h,44.72
+S10,Greyhound,Speed,"Known as the ""40mph couch potato.""",72,km/h,72
+S11,Race Horse,Speed,A galloping Thoroughbred.,88,km/h,88
+S12,Swordfish,Speed,Uses its bill to slash at prey.,97,km/h,97
+S13,Cheetah,Speed,Can accelerate faster than a Ferrari.,120,km/h,120
+S14,Baseball Pitch,Speed,The reaction time is less than a blink.,169,km/h,169
+S15,Skydiver (Belly),Speed,Terminal velocity for a human.,195,km/h,195
+S16,Formula 1 Car,Speed,Record top speed in a race.,372,km/h,372
+S17,Peregrine Falcon,Speed,The fastest animal (diving speed).,389,km/h,389
+S18,Bugatti Chiron,Speed,The first road car to break 300mph.,490,km/h,490
+S19,Maglev Train,Speed,Floats on magnets to reduce friction.,603,km/h,603
+S20,Commercial Jet,Speed,Typical cruising speed (Boeing 747).,930,km/h,933
+S21,Sound Barrier,Speed,Mach 1 at sea level.,1235,km/h,1234
+S22,Felix Baumgartner,Speed,First human to break sound barrier in freefall.,1357,km/h,1357
+S23,Earth's Rotation,Speed,We are all spinning right now.,1670,km/h,1670
+S24,Concorde,Speed,NYC to London in 3 hours.,2180,km/h,2179
+S25,Rifle Bullet,Speed,Travels over 3 football fields in a second.,3300,km/h,3300
+S26,SR-71 Blackbird,Speed,Outran missiles simply by speeding up.,3500,km/h,3529
+S27,Hypersonic Speed,Speed,Defined as Mach 5.,6100,km/h,6174
+S28,ISS Orbit,Speed,Circles Earth every 90 minutes.,28000,km/h,27600
+S29,Escape Velocity,Speed,Speed needed to leave Earth for good.,40000,km/h,40270
+S30,Voyager 1,Speed,The farthest human-made object.,61000,km/h,61200
+S31,Meteor (Entry),Speed,Why they burn up in the sky.,72000,km/h,72000
+S32,Earth's Orbit,Speed,Our speed around the Sun.,107000,km/h,107000
+S33,Lightning Leader,Speed,The initial stroke of lightning.,220000,km/h,220000
+S34,Solar Wind,Speed,Charged particles from the Sun.,1.4,million km/h,1440000
+S35,Milky Way,Speed,Our galaxy rushing toward Andromeda.,2.1,million km/h,2100000
+S36,Light in Diamond,Speed,Light slows down by 60% in diamond.,124000,km/s,4.40E+08
+S37,Light in Glass,Speed,Slower than in air.,200000,km/s,7.20E+08
+S38,Electricity,Speed,Signal speed in copper wire.,200000,km/s,7.20E+08
+S39,Light in Water,Speed,Why things look distorted underwater.,225000,km/s,8.10E+08
+S40,Speed of Light,Speed,The absolute cosmic limit.,300000,km/s,1.08E+09
+S41,Tachyon,Speed,Hypothetical particle faster than light.,Infinity,km/s,9.90E+09
+S42,Snail on Caffeine,Speed,Just kidding (checking if you're reading).,0.05,km/h,0.05
+S43,Tectonic Plates,Speed,Slowest movement on the list.,2,cm/year,1.00E-09
+S44,Grass Growth,Speed,Faster than bamboo? No.,1,cm/day,0.0004
+S45,Glacier Flow,Speed,Ice moving downhill.,1,meter/day,0.00004
+S46,Hair Growth,Speed,Grows about 15cm a year.,0.4,mm/day,1.60E-05
+S47,Stalactite Growth,Speed,Cave formations.,0.1,mm/year,1.00E-10
+S48,Erosion of Everest,Speed,Wearing down extremely slowly.,0.04,mm/year,1.00E-11
+S49,Fingernail Growth,Speed,Faster on the dominant hand.,3,mm/month,4.00E-06
+S50,Coral Growth,Speed,Builds reefs over centuries.,2,cm/year,1.00E-09
+P01,The Last Male Northern White Rhino,Population,"Sadly, ""Sudan"" passed away in 2018.",0,(Extinct),0
+P02,ISS Crew,Population,Average number of people in space right now.,7,astronauts,7
+P03,Vaquita Porpoise,Population,The world's most endangered marine mammal.,10,individuals,10
+P04,Javan Rhino,Population,None exist in captivity; all are in Ujung Kulon Park.,76,individuals,76
+P05,Pitcairn Islands,Population,The least populous national jurisdiction.,47,people,47
+P06,Vatican City,Population,The smallest sovereign state by population.,825,people,825
+P07,Pandas (Wild),Population,"A conservation success story, numbers are rising.",1860,bears,1860
+P08,Falkland Islands,Population,Sheep vastly outnumber the people here.,3800,people,3800
+P09,Tuvalu,Population,One of the nations most at risk from rising sea levels.,11000,people,11000
+P10,San Marino,Population,The oldest surviving republic.,34000,people,34000
+P11,Greenland,Population,"Huge island, tiny population.",56000,people,56000
+P12,Bermuda,Population,Famous for its triangle and shorts.,64000,people,64000
+P13,Wembley Stadium Capacity,Population,The largest stadium in the UK.,90000,seats,90000
+P14,Seychelles,Population,The smallest African country by population.,98000,people,98000
+P15,Iceland,Population,More books published per capita than anywhere else.,370000,people,370000
+P16,Maldives,Population,Lowest country in the world (elevation).,540000,people,540000
+P17,Luxembourg,Population,One of the wealthiest nations.,640000,people,640000
+P18,Woodstock 1969,Population,The legendary music festival crowd.,400000,hippies,400000
+P19,Bhutan,Population,They measure Gross National Happiness.,770000,people,770000
+P20,Estonia,Population,Known for its digital citizenship.,1.3,million,1300000
+P21,Philadelphia,Population,The City of Brotherly Love.,1.6,million,1600000
+P22,Paris (City Proper),Population,Does not include the suburbs!,2.1,million,2100000
+P23,Mongolia,Population,The most sparsely populated sovereign state.,3.3,million,3300000
+P24,New Zealand,Population,Where sheep outnumber people 5 to 1.,5.1,million,5100000
+P25,Singapore,Population,"A city, an island, and a nation.",5.7,million,5700000
+P26,London,Population,The Big Smoke.,9,million,9000000
+P27,Sweden,Population,Home of IKEA and ABBA.,10.4,million,10400000
+P28,Moscow,Population,The largest city entirely in Europe.,12.6,million,12600000
+P29,Tokyo (Metro Area),Population,The most populous metropolitan area in the world.,37.4,million,37400000
+P30,Canada,Population,"Second largest land area, but few people.",38,million,38000000
+P31,South Korea,Population,Home of K-Pop and Samsung.,52,million,52000000
+P32,United Kingdom,Population,Four countries in one trenchcoat.,67,million,67000000
+P33,Germany,Population,The most populous country in the EU.,83,million,83000000
+P34,Japan,Population,It has the oldest population in the world.,125,million,125000000
+P35,Russia,Population,Spans 11 time zones.,144,million,144000000
+P36,Nigeria,Population,The most populous African nation.,211,million,211000000
+P37,Brazil,Population,60% of the Amazon rainforest is here.,214,million,214000000
+P38,Indonesia,Population,The world's largest island country.,276,million,276000000
+P39,United States,Population,The third most populous nation.,332,million,332000000
+P40,European Union,Population,A political and economic union of 27 states.,447,million,447000000
+P41,Dogs,Population,Estimated global dog population.,900,million,900000000
+P42,Cows (Cattle),Population,Estimated global cattle population.,1.5,billion,1500000000
+P43,China,Population,Recently surpassed by India (depending on source).,1.41,billion,1410000000
+P44,India,Population,The world's largest democracy.,1.42,billion,1420000000
+P45,Facebook Users,Population,Monthly active users (The Nation of Zuckerberg).,3,billion,3000000000
+P46,Humans (Current),Population,The number of people alive today.,8.1,billion,8100000000
+P47,Chickens,Population,There are 3 chickens for every human.,33,billion,33000000000
+P48,Humans (History),Population,Estimated total humans who have ever lived.,117,billion,117000000000
+P49,Ants,Population,Estimated number of ants on Earth.,20,quadrillion,2.00E+16
+P50,Bacteria in your mouth,Population,Brush your teeth!,6,billion,6000000000
+A01,Post-It Note,Area,A standard 3x3 inch sticky note.,58,cm²,0.0000058
+A02,Smartphone Screen,Area,Average 6-inch phone display.,90,cm²,0.000009
+A03,A4 Paper Sheet,Area,Standard printer paper.,623,cm²,0.0000623
+A04,Pizza (Large),Area,A standard 14-inch pizza.,0.1,m²,0.0001
+A05,Mona Lisa,Area,Smaller than most people expect (77x53cm).,0.4,m²,0.0004
+A06,King Size Bed,Area,Standard US King mattress.,3.5,m²,0.00035
+A07,Parking Space,Area,Standard US parking spot.,15,m²,0.000015
+A08,Boxing Ring,Area,Standard competition ring.,36,m²,0.000036
+A09,Tennis Court,Area,Including the doubles alleys.,260,m²,0.00026
+A10,Basketball Court,Area,NBA standard court.,436,m²,0.00043
+A11,IMAX Screen,Area,A typical large format cinema screen.,500,m²,0.0005
+A12,White House (Floor),Area,Total floor area of the Residence.,5100,m²,0.0051
+A13,Football Field,Area,Standard soccer pitch (FIFA).,7140,m²,0.0071
+A14,The Pentagon,Area,World's largest office building by floor area.,600000,m²,0.6
+A15,Disneyland Park (CA),Area,The original park in Anaheim.,0.3,km²,0.34
+A16,Vatican City,Area,Smallest country in the world.,0.44,km²,0.44
+A17,Monaco,Area,Second smallest country; famous for F1.,2,km²,2
+A18,Central Park (NYC),Area,An oasis in Manhattan.,3.4,km²,3.4
+A19,Gibraltar,Area,Famous for its Rock and monkeys.,6.8,km²,6.8
+A20,Heathrow Airport,Area,One of the busiest airports in the world.,12,km²,12
+A21,Manhattan,Area,The most densely populated NYC borough.,59,km²,59
+A22,Walt Disney World,Area,The Florida resort is the size of a city.,101,km²,101
+A23,Liechtenstein,Area,Double-landlocked country.,160,km²,160
+A24,Singapore,Area,It has grown by 25% due to land reclamation.,728,km²,728
+A25,New York City,Area,The five boroughs combined.,783,km²,783
+A26,London,Area,Greater London area.,1572,km²,1572
+A27,Rhode Island,Area,The smallest US state.,3144,km²,3144
+A28,Grand Canyon,Area,The National Park area.,4926,km²,4926
+A29,Puerto Rico,Area,US Territory in the Caribbean.,9104,km²,9104
+A30,Jamaica,Area,Third largest island in the Caribbean.,10990,km²,10990
+A31,Wales,Area,Part of the UK.,20779,km²,20779
+A32,Switzerland,Area,Famous for Alps and neutrality.,41285,km²,41285
+A33,Lake Superior,Area,The largest freshwater lake by area.,82100,km²,82100
+A34,Iceland,Area,Land of Fire and Ice.,103000,km²,103000
+A35,United Kingdom,Area,Great Britain and Northern Ireland.,242000,km²,242000
+A36,California,Area,"If it were a country, it would be medium-sized.",423970,km²,423970
+A37,Texas,Area,Everything is bigger here.,695662,km²,695662
+A38,Greenland,Area,Largest island (that isn't a continent).,2.16,million km²,2160000
+A39,Mediterranean Sea,Area,Separates Europe and Africa.,2.5,million km²,2500000
+A40,India,Area,The 7th largest country.,3.28,million km²,3280000
+A41,European Union,Area,Combined area of member states.,4.23,million km²,4230000
+A42,Amazon Rainforest,Area,The lungs of the planet.,5.5,million km²,5500000
+A43,Australia,Area,A country and a continent.,7.69,million km²,7690000
+A44,Sahara Desert,Area,Similar size to the USA.,9.2,million km²,9200000
+A45,United States,Area,Includes Alaska and Hawaii.,9.83,million km²,9830000
+A46,Canada,Area,Second largest country.,9.98,million km²,9980000
+A47,Antarctica,Area,The coldest continent.,14.2,million km²,14200000
+A48,Russia,Area,The largest country by far.,17.1,million km²,1.71E+07
+A49,The Moon (Surface),Area,Roughly the size of Asia.,38,million km²,38000000
+A50,Pacific Ocean,Area,Covers 30% of Earth's surface.,165,million km²,165000000
+T01,Baker Island (USA),Time Zone,Uninhabited island; the last place on Earth to see the New Year.,UTC -12,Offset,-12
+T02,American Samoa,Time Zone,"Only 70km from Samoa, but a full day behind due to the Date Line.",UTC -11,Offset,-11
+T03,Hawaii (Honolulu),Time Zone,They do not observe Daylight Saving Time.,UTC -10,Offset,-10
+T04,Tahiti,Time Zone,French Polynesia's main island.,UTC -10,Offset,-10
+T05,Marquesas Islands,Time Zone,A rare half-hour time zone in the Pacific.,UTC -9:30,Offset,-9.5
+T06,Anchorage (Alaska),Time Zone,"In winter, they get only ~5 hours of sunlight.",UTC -9,Offset,-9
+T07,Los Angeles,Time Zone,Pacific Standard Time (PST).,UTC -8,Offset,-8
+T08,Vancouver,Time Zone,Shares the same time as LA and Seattle.,UTC -8,Offset,-8
+T09,Denver,Time Zone,Mountain Standard Time.,UTC -7,Offset,-7
+T10,Mexico City,Time Zone,Most of Mexico uses this central time.,UTC -6,Offset,-6
+T11,Chicago,Time Zone,Central Standard Time.,UTC -6,Offset,-6
+T12,Easter Island,Time Zone,One of the most remote inhabited islands.,UTC -5,Offset,-5
+T13,New York City,Time Zone,Eastern Standard Time (EST).,UTC -5,Offset,-5
+T14,Caracas (Venezuela),Time Zone,They used to be -4:30 but switched to -4 in 2016.,UTC -4,Offset,-4
+T15,Santiago (Chile),Time Zone,"Time varies greatly due to DST, but standard is -4.",UTC -4,Offset,-4
+T16,Newfoundland,Time Zone,famous for being 30 minutes ahead of the rest of Atlantic Canada.,UTC -3:30,Offset,-3.5
+T17,Rio de Janeiro,Time Zone,Brazil has four time zones; this is the main one.,UTC -3,Offset,-3
+T18,Buenos Aires,Time Zone,Argentina is geographically UTC-4 but uses UTC-3.,UTC -3,Offset,-3
+T19,South Georgia Island,Time Zone,A remote British territory in the South Atlantic.,UTC -2,Offset,-2
+T20,Azores,Time Zone,Portuguese archipelago in the middle of the Atlantic.,UTC -1,Offset,-1
+T21,Cape Verde,Time Zone,Island nation off the coast of Africa.,UTC -1,Offset,-1
+T22,London,Time Zone,Greenwich Mean Time (GMT) - The reference point.,UTC 0,Offset,0
+T23,Reykjavik (Iceland),Time Zone,They are geographically UTC-1 but use UTC 0 all year.,UTC 0,Offset,0
+T24,Paris,Time Zone,Central European Time (CET).,UTC +1,Offset,1
+T25,Berlin,Time Zone,Germany was the first country to use DST (WWI).,UTC +1,Offset,1
+T26,Lagos (Nigeria),Time Zone,West Africa Time.,UTC +1,Offset,1
+T27,Cairo,Time Zone,Egypt Standard Time.,UTC +2,Offset,2
+T28,Johannesburg,Time Zone,South Africa Standard Time.,UTC +2,Offset,2
+T29,Jerusalem,Time Zone,Israel Standard Time.,UTC +2,Offset,2
+T30,Moscow,Time Zone,They stopped using Daylight Saving Time in 2014.,UTC +3,Offset,3
+T31,Baghdad,Time Zone,Arabia Standard Time.,UTC +3,Offset,3
+T32,Tehran (Iran),Time Zone,"Historically +3:30, changed to +3.5 recently.",UTC +3:30,Offset,3.5
+T33,Dubai,Time Zone,They do not observe Daylight Saving Time.,UTC +4,Offset,4
+T34,Kabul (Afghanistan),Time Zone,A half-hour zone to distinguish from neighbors.,UTC +4:30,Offset,4.5
+T35,Maldives,Time Zone,"Resorts sometimes use ""Island Time"" (+6) to give tourists more sun.",UTC +5,Offset,5
+T36,New Delhi (India),Time Zone,The whole country uses one time zone (+5:30).,UTC +5:30,Offset,5.5
+T37,Kathmandu (Nepal),Time Zone,The only time zone with a 45-minute offset.,UTC +5:45,Offset,5.75
+T38,Dhaka (Bangladesh),Time Zone,30 minutes ahead of India.,UTC +6,Offset,6
+T39,Bangkok,Time Zone,Indochina Time.,UTC +7,Offset,7
+T40,Singapore,Time Zone,"Geographically should be +7, but chose +8 to match China/HK.",UTC +8,Offset,8
+T41,Beijing,Time Zone,"China uses one time zone, despite spanning 5 geographical zones.",UTC +8,Offset,8
+T42,Perth (Australia),Time Zone,Western Australia.,UTC +8,Offset,8
+T43,Tokyo,Time Zone,Japan Standard Time (JST).,UTC +9,Offset,9
+T44,Adelaide,Time Zone,South Australia uses a half-hour zone.,UTC +9:30,Offset,9.5
+T45,Sydney,Time Zone,Australian Eastern Standard Time.,UTC +10,Offset,10
+T46,Lord Howe Island,Time Zone,A tiny island with a rare 10:30 offset.,UTC +10:30,Offset,10.5
+T47,Auckland (New Zealand),Time Zone,One of the first major cities to see the sun.,UTC +12,Offset,12
+T48,Chatham Islands,Time Zone,45 minutes ahead of the rest of New Zealand.,UTC +12:45,Offset,12.75
+T49,Tonga,Time Zone,They skipped a day in 1999 to be first into the Millennium.,UTC +13,Offset,13
+T50,Kiritimati (Line Islands),Time Zone,The first inhabited place on Earth to start a new day.,UTC +14,Offset,14
+L01,Planck Length,Length,The smallest unit of length in physics.,1.6,x 10^-35 m,1.60E-35
+L02,Hydrogen Atom Diameter,Length,The simplest atom.,100,picometers,1.00E-10
+L03,DNA Strand (Uncoiled),Length,Length of DNA in one cell (if stretched).,2,meters,2
+L04,Red Blood Cell,Length,Width of a human blood cell.,8,micrometers,0.000008
+L05,Human Hair Width,Length,Average thickness.,75,micrometers,0.000075
+L06,Ant,Length,Average black garden ant.,5,mm,0.005
+L07,Lego Brick,Length,Height of a standard brick.,9.6,mm,0.0096
+L08,Golf Ball,Length,Diameter of a standard ball.,43,mm,0.043
+L09,Subway Sandwich,Length,"The classic ""Footlong"" (sometimes shorter!).",30,cm,0.3
+L10,Guitar,Length,Average acoustic guitar length.,1,meter,1
+L11,King Cobra,Length,The world's longest venomous snake.,4,meters,4
+L12,Giraffe,Length,The tallest living land animal.,5.5,meters,5.5
+L13,London Bus,Length,The classic double-decker (Routemaster).,9,meters,9
+L14,Giant Squid,Length,Including the tentacles.,13,meters,13
+L15,Hollywood Sign,Length,The height of the letters.,14,meters,14
+L16,Bowling Lane,Length,From foul line to head pin.,18,meters,18
+L17,Blue Whale,Length,The largest animal ever known.,30,meters,30
+L18,Christ the Redeemer,Length,The statue in Rio (excluding pedestal).,30,meters,30
+L19,Space Shuttle,Length,The Orbiter vehicle length.,37,meters,37
+L20,Arc de Triomphe,Length,Ordered by Napoleon.,50,meters,50
+L21,Leaning Tower of Pisa,Length,It leans about 4 degrees.,56,meters,56
+L22,Boeing 747,Length,"The ""Queen of the Skies.""",76,meters,76
+L23,Statue of Liberty,Length,From ground to torch.,93,meters,93
+L24,Football Field,Length,Including the end zones (120 yards).,110,meters,110
+L25,Saturn V Rocket,Length,The rocket that went to the moon.,111,meters,111
+L26,Great Pyramid of Giza,Length,Original height.,146,meters,146
+L27,Titanic,Length,Length of the ship.,269,meters,269
+L28,Eiffel Tower,Length,Including the antenna.,330,meters,330
+L29,Empire State Building,Length,To the tip.,443,meters,443
+L30,Seawise Giant,Length,The longest ship ever built (Oil Tanker).,458,meters,458
+L31,Burj Khalifa,Length,The tallest building in the world (Dubai).,828,meters,828
+L32,Angel Falls,Length,The world's highest uninterrupted waterfall.,979,meters,979
+L33,Golden Gate Bridge,Length,Total length of the bridge span.,2737,meters,2737
+L34,Central Park,Length,Length from North to South.,4000,meters,4000
+L35,Mount Everest,Length,Height above sea level.,8849,meters,8849
+L36,Mariana Trench,Length,Depth of the deepest point in the ocean.,11034,meters,11034
+L37,Marathon,Length,The official race distance.,42,km,42195
+L38,Channel Tunnel,Length,Connects UK and France (underwater portion).,50,km,50450
+L39,Grand Canyon,Length,Length of the canyon (river path).,446,km,446000
+L40,Italy,Length,Length of the peninsula (North to South).,1185,km,1185000
+L41,Great Barrier Reef,Length,Visible from space.,2300,km,2300000
+L42,Amazon River,Length,Slightly shorter than the Nile (usually).,6400,km,6400000
+L43,Nile River,Length,The longest river in the world.,6650,km,6650000
+L44,Trans-Siberian Railway,Length,The longest railway line.,9289,km,9289000
+L45,Great Wall of China,Length,Total length of all sections.,21196,km,21196000
+L46,Equator,Length,Circumference of Earth.,40075,km,40075000
+L47,Distance to Moon,Length,Average distance.,384400,km,384400000
+L48,The Sun (Diameter),Length,109 times wider than Earth.,1.4,million km,1400000000
+L49,Distance to Sun,Length,1 Astronomical Unit (AU).,150,million km,1.50E+11
+L50,Light Year,Length,Distance light travels in one year.,9.46,trillion km,9.46E+15
+D01,Camera Flash,Duration,The duration of a typical xenon strobe flash.,1,millisecond,0.001
+D02,Honeybee Wing Flap,Duration,Bees flap their wings 230 times per second.,5,milliseconds,0.005
+D03,Blink of an Eye,Duration,The average human blink.,100,milliseconds,0.1
+D04,Human Reaction Time,Duration,Average visual stimulus reaction.,250,milliseconds,0.25
+D05,One Heartbeat,Duration,At a resting rate of 60 bpm.,1,second,1
+D06,Vine Video,Duration,The loop limit of the defunct app.,6,seconds,6
+D07,Goldfish Attention Span,Duration,"Myth says 3s, reality is actually longer, but let's go with the tracked average.",9,seconds,9
+D08,100m Sprint Record,Duration,Usain Bolt's 2009 record.,9,seconds,9.58
+D09,Traffic Light Yellow,Duration,Standard duration in many countries.,4,seconds,4
+D10,Commercial Break,Duration,Standard TV ad spot.,30,seconds,30
+D11,One Minute,Duration,60 seconds.,1,minute,60
+D12,Pop Song,Duration,Average radio edit length.,3,minutes,180
+D13,Egg Boiling (Soft),Duration,Perfect runny yolk.,6,minutes,360
+D14,Snooze Button,Duration,Standard iPhone snooze time.,9,minutes,540
+D15,Half-Time (Football),Duration,Break in a soccer match.,15,minutes,900
+D16,Sitcom Episode,Duration,Standard runtime without commercials.,22,minutes,1320
+D17,ISS Orbit,Duration,Time to circle the Earth once.,92,minutes,5520
+D18,Marathon Record,Duration,Kipchoge's record (approx).,2,hours,7200
+D19,Titanic Movie,Duration,Runtime of the 1997 film.,3,hours,11700
+D20,Work Day,Duration,Standard 9 to 5.,8,hours,28800
+D21,Earth Rotation,Duration,A sidereal day.,23,hours,86164
+D22,One Day,Duration,24 hours.,1,day,86400
+D23,Apollo 11 Mission,Duration,Total time to Moon and back.,8,days,691200
+D24,Cicada Life Cycle,Duration,Periodical cicadas underground phase.,17,years,536112000
+D25,Full Moon Cycle,Duration,Lunar month (Synodic).,29,days,2505600
+D26,Pregnancy (Human),Duration,Average gestation.,280,days,24192000
+D27,One Year,Duration,Orbit of Earth.,365,days,31536000
+D28,Mars Mission (One Way),Duration,Estimated travel time with current tech.,7,months,18000000
+D29,High School,Duration,Standard US duration.,4,years,126144000
+D30,World War II,Duration,1939 to 1945.,6,years,189216000
+D31,Jupiter Orbit,Duration,Time for Jupiter to circle the Sun.,12,years,378432000
+D32,Saturn Orbit,Duration,Time for Saturn to circle the Sun.,29,years,914544000
+D33,Average Human Life,Duration,Global average expectancy.,73,years,2302128000
+D34,Halley's Comet,Duration,Orbital period.,75,years,2365200000
+D35,Pluto Orbit,Duration,One Pluto year.,248,years,7821696000
+D36,Roman Empire,Duration,Duration of the Empire (27 BC - 476 AD).,503,years,15862200000
+D37,Great Pyramid Age,Duration,Time since construction.,4500,years,141912000000
+D38,Recorded History,Duration,Roughly since Sumerian cuneiform.,5300,years,167140800000
+D39,Ice Age Duration,Duration,The last glacial period.,11500,years,362664000000
+D40,Human Species Age,Duration,Homo Sapiens existence.,300000,years,9460800000000
+D41,Dinosaur Era,Duration,Mesozoic Era duration.,180,million years,5.60E+15
+D42,Milky Way Rotation,Duration,"A ""Galactic Year.""",230,million years,7.20E+15
+D43,Age of Earth,Duration,Since formation.,4.5,billion years,1.40E+17
+D44,Age of Sun,Duration,Main sequence star life so far.,4.6,billion years,1.45E+17
+D45,Age of Universe,Duration,Since the Big Bang.,13.8,billion years,4.35E+17
+D46,Carbon-14 Half Life,Duration,Used for dating fossils.,5730,years,1.80E+11
+D47,Plastic Bottle Decay,Duration,Estimated time to decompose.,450,years,1.40E+10
+D48,Chernobyl Safety,Duration,Time until the area is safe for habitation.,20000,years,6.30E+11
+D49,"A ""Jiffy""",Duration,"Actual unit in electronics (variable, but usually this).",16,milliseconds,0.016
+D50,One Microcentury,Duration,Attributed to Fermi (approx 52 min).,52,minutes,3155
+C01,Celery Stalk,Calories,"You burn more chewing it? (Myth, but close).",6,kCal,6
+C02,Tic Tac,Calories,"Almost pure sugar, but tiny.",2,kCal,2
+C03,Chewing Gum,Calories,One stick.,11,kCal,11
+C04,Cucumber (Slice),Calories,Mostly water.,1,kCal,1
+C05,Espresso Shot,Calories,Without sugar or milk.,3,kCal,3
+C06,Strawberry,Calories,One medium berry.,4,kCal,4
+C07,Almond,Calories,A single nut.,7,kCal,7
+C08,Hershey's Kiss,Calories,One chocolate piece.,22,kCal,22
+C09,Oreo Cookie,Calories,"Twist, lick, dunk.",53,kCal,53
+C10,Apple,Calories,Medium size with skin.,95,kCal,95
+C11,Banana,Calories,Nature's energy bar.,105,kCal,105
+C12,Coca-Cola (Can),Calories,330ml can.,139,kCal,139
+C13,Beer (Pint),Calories,Standard lager.,180,kCal,180
+C14,Snickers Bar,Calories,You're not you when you're hungry.,250,kCal,250
+C15,Avocado,Calories,High in good fats.,320,kCal,320
+C16,Ramen Noodles,Calories,Instant pack.,380,kCal,380
+C17,Big Mac,Calories,The burger index standard.,563,kCal,563
+C18,Full English Breakfast,Calories,Fry-up with everything.,850,kCal,850
+C19,Large Pizza (Pepperoni),Calories,The whole pie (Domino's style).,2400,kCal,2400
+C20,Stick of Butter,Calories,113g of fat.,810,kCal,810
+C21,MRE (Meal Ready to Eat),Calories,Standard military field ration.,1250,kCal,1250
+C22,Human Daily Intake (Male),Calories,Recommended average.,2500,kCal,2500
+C23,1kg of Body Fat,Calories,Energy stored in fat tissue.,7700,kCal,7700
+C24,Tour de France Stage,Calories,Daily burn of a cyclist.,6000,kCal,6000
+C25,Michael Phelps Diet,Calories,Peak training intake.,12000,kCal,12000
+C26,Coal (1kg),Calories,Energy released when burning coal.,7000,kCal,7000
+C27,Gasoline (1 Gallon),Calories,Energy in US gallon of petrol.,31000,kCal,31000
+C28,Lightning Bolt,Calories,Energy in a single flash (approx).,1,billion kCal,1000000000
+C29,TNT (1kg),Calories,Explosive energy.,1000,kCal,1000
+C30,Smartphone Battery,Calories,3000mAh equivalent in food energy.,10,kCal,10
+C31,AA Battery,Calories,Electrical energy content.,2,kCal,2.4
+C32,Uranium (1 gram),Calories,Nuclear fission energy.,18,million kCal,18000000
+C33,Hiroshima Bomb,Calories,"Yield of ""Little Boy"".",15,trillion kCal,1.50E+13
+C34,Hurricane,Calories,Energy released per second.,150,trillion kCal,1.50E+14
+C35,9V Battery,Calories,Typical rectangular battery.,4,kCal,4.5
+C36,Shot of Vodka,Calories,1.5 oz (44ml).,97,kCal,97
+C37,Cup of Rice (Cooked),Calories,White rice.,200,kCal,200
+C38,Cheesecake Slice,Calories,Factory Factory style.,1000,kCal,1000
+C39,Thanksgiving Dinner,Calories,Average American consumption.,4500,kCal,4500
+C40,Blue Whale (Mouthful),Calories,Calories in one gulp of krill.,457000,kCal,457000
+C41,Barrel of Oil,Calories,Crude oil energy.,1.4,million kCal,1400000
+C42,Car Battery,Calories,Lead-acid battery.,600,kCal,600
+C43,Stick of Dynamite,Calories,Alfred Nobel's invention.,500,kCal,500
+C44,Tsunami,Calories,Energy of a mega-wave.,200,quadrillion kCal,2.00E+17
+C45,Earthquake (Mag 7),Calories,Energy release.,470,billion kCal,4.70E+11
+C46,Meteor Impact (Dinosaur Killer),Calories,Chicxulub impact.,20,billion billion kCal,2.00E+22
+C47,Sun (Per Second),Calories,Energy output of the sun/sec.,9,x 10^22 kCal,9.00E+22
+C48,Supernova,Calories,Death of a star.,2,x 10^41 kCal,2.00E+41
+C49,Tic Tac (Mint),Calories,(Just checking you're still watching).,2,kCal,2
+C50,Diet Coke,Calories,The reason you eat the Big Mac.,1,kCal,1
+LS01,Mayfly,Lifespan,They don't even have mouths to eat; they just breed and die.,1,day,0.0027
+LS02,Drone Ant,Lifespan,Males live just long enough to mate.,3,days,0.008
+LS03,House Fly,Lifespan,They are annoying for a short time.,28,days,0.076
+LS04,Dragonfly,Lifespan,Ancient predators of the insect world.,4,months,0.33
+LS05,Worker Bee,Lifespan,They work themselves to death in summer.,5,months,0.41
+LS06,Mouse,Lifespan,High heart rate = short life.,2,years,2
+LS07,Hamster,Lifespan,The classic first pet tragedy.,3,years,3
+LS08,Guinea Pig,Lifespan,Longer lived than hamsters.,6,years,6
+LS09,Kangaroo,Lifespan,In the wild.,6,years,6
+LS10,Domestic Rabbit,Lifespan,"With good care, they last a decade.",10,years,10
+LS11,Great Dane,Lifespan,Large dogs have shorter lives than small ones.,8,years,8
+LS12,Chihuahua,Lifespan,Small dogs live the longest.,17,years,17
+LS13,Cheetah,Lifespan,"Fast life, short life.",12,years,12
+LS14,Lion,Lifespan,In the wild (females usually outlive males).,14,years,14
+LS15,Domestic Cat,Lifespan,The oldest cat lived to be 38.,15,years,15
+LS16,Queen Ant,Lifespan,Much longer than the workers!,30,years,30
+LS17,Polar Bear,Lifespan,In the wild.,25,years,25
+LS18,Horse,Lifespan,A solid working life.,30,years,30
+LS19,Chimpanzee,Lifespan,Our closest relatives.,45,years,45
+LS20,Goldfish,Lifespan,"If you don't keep them in a tiny bowl, they live for decades!",40,years,40
+LS21,African Elephant,Lifespan,Similar lifespan to humans in the past.,70,years,70
+LS22,Average Human,Lifespan,Global average life expectancy (2023).,73,years,73
+LS23,Orca (Killer Whale),Lifespan,Females can live much longer than males.,90,years,90
+LS24,Macaw (Parrot),Lifespan,Often outlive their owners.,80,years,80
+LS25,Lobster,Lifespan,They don't age biologically in the normal way.,100,years,100
+LS26,Blue Whale,Lifespan,The giants of the deep.,90,years,90
+LS27,Human (Record),Lifespan,Jeanne Calment (verified).,122,years,122
+LS28,Giant Tortoise,Lifespan,Adwaita (Aldabra tortoise) lived to 255.,150,years,150
+LS29,Bowhead Whale,Lifespan,Old harpoon tips from the 1800s have been found in living whales.,200,years,200
+LS30,Koi Fish,Lifespan,Hanako the Koi lived to be 226 (estimated).,200,years,200
+LS31,Greenland Shark,Lifespan,They don't reach puberty until they are 150.,400,years,400
+LS32,Quahog Clam,Lifespan,"""Ming"" the clam was 507 years old.",500,years,500
+LS33,Bristlecone Pine,Lifespan,"""Methuselah"" is a tree in California.",4850,years,4850
+LS34,Glass Sponge,Lifespan,Deep sea sponge found in the East China Sea.,11000,years,11000
+LS35,Immortal Jellyfish,Lifespan,Biologically immortal (reverts to polyp stage).,Infinity,years,999999
+LS36,Plastic Bottle,Lifespan,Time to decompose in ocean.,450,years,450
+LS37,Aluminum Can,Lifespan,Time to decompose.,200,years,200
+LS38,Styrofoam Cup,Lifespan,It never truly biodegrades.,500,years,500
+LS39,Cigarette Butt,Lifespan,The filter takes time to break down.,10,years,10
+LS40,Apple Core,Lifespan,Biodegradable.,2,months,0.16
+LS41,Red Dwarf Star,Lifespan,They burn fuel very slowly.,10,trillion years,1.00E+13
+LS42,The Sun,Lifespan,Total life sequence.,10,billion years,1.00E+10
+LS43,Massive Star (Type O),Lifespan,"Live fast, die young (supernova).",10,million years,1.00E+07
+LS44,Proton,Lifespan,Theoretical decay time (unproven).,10^34,years,1.00E+34
+LS45,Civilization,Lifespan,Average lifespan of a historical empire.,340,years,340
+LS46,US Dollar Bill,Lifespan,Lifespan in circulation before wearing out.,6,years,6
+LS47,Coin,Lifespan,Metal lasts longer than paper.,30,years,30
+LS48,Hard Drive,Lifespan,Average failure rate increases after this.,5,years,5
+LS49,GPS Satellite,Lifespan,Designed operational life.,15,years,15
+LS50,Nuclear Waste (Pu-239),Lifespan,Half-life of Plutonium.,24000,years,24000
+TM01,Absolute Zero,Temperature,0 Kelvin. Atoms stop moving.,-273,°C,-273.15
+TM02,Boomerang Nebula,Temperature,The coldest natural place in the Universe.,-272,°C,-272
+TM03,Liquid Helium,Temperature,Used to cool MRI machines.,-269,°C,-269
+TM04,Pluto Surface,Temperature,Average surface temperature.,-229,°C,-229
+TM05,Liquid Nitrogen,Temperature,Used for freezing warts and making ice cream.,-196,°C,-196
+TM06,Vostok Station,Temperature,Coldest temperature recorded on Earth.,-89,°C,-89.2
+TM07,Dry Ice,Temperature,Solid Carbon Dioxide.,-78,°C,-78.5
+TM08,Mars Surface (Avg),Temperature,It gets much colder at the poles.,-60,°C,-60
+TM09,Mercury (Night),Temperature,No atmosphere to keep heat in.,-180,°C,-180
+TM10,Commercial Freezer,Temperature,Standard food storage.,-18,°C,-18
+TM11,Water Freezing Point,Temperature,32°F.,0,°C,0
+TM12,Fridge Temperature,Temperature,Keep your milk here.,4,°C,4
+TM13,Room Temperature,Temperature,Standard comfort.,20,°C,20
+TM14,Human Body,Temperature,98.6°F.,37,°C,37
+TM15,Death Valley Record,Temperature,Hottest air temp recorded on Earth.,56,°C,56.7
+TM16,Sauna,Temperature,A hot Finnish sauna.,80,°C,80
+TM17,Water Boiling Point,Temperature,At sea level.,100,°C,100
+TM18,Maillard Reaction,Temperature,When food browns and gets tasty.,154,°C,154
+TM19,Paper Burns,Temperature,Fahrenheit 451.,233,°C,233
+TM20,Lead Melting Point,Temperature,Used in soldering.,327,°C,327
+TM21,Venus Surface,Temperature,Hottest planet due to greenhouse effect.,462,°C,462
+TM22,Wood Fire,Temperature,Typical campfire.,600,°C,600
+TM23,Lava,Temperature,Molten rock.,1000,°C,1000
+TM24,Jet Engine (Inside),Temperature,Turbine blade environment.,1700,°C,1700
+TM25,Light Bulb Filament,Temperature,Tungsten glowing.,2500,°C,2500
+TM26,Iron Melting Point,Temperature,Liquid metal.,1538,°C,1538
+TM27,Diamond Melting Point,Temperature,Even diamonds aren't forever.,3550,°C,3550
+TM28,Sun Surface,Temperature,Photosphere.,5500,°C,5500
+TM29,Earth's Core,Temperature,As hot as the surface of the sun.,6000,°C,6000
+TM30,Lightning Bolt,Temperature,Hotter than the sun's surface!,30000,°C,30000
+TM31,Nuclear Explosion,Temperature,Fireball core.,100,million °C,1.00E+08
+TM32,Sun's Core,Temperature,Where fusion happens.,15,million °C,1.50E+07
+TM33,ITER Fusion Reactor,Temperature,Man-made sun on Earth.,150,million °C,1.50E+08
+TM34,Supernova,Temperature,Core collapse.,100,billion °C,1.00E+11
+TM35,Large Hadron Collider,Temperature,Smashing particles (generated heat).,5.5,trillion °C,5.50E+12
+TM36,Universe (1s after Big Bang),Temperature,Cooling down rapidly.,10,billion °C,1.00E+10
+TM37,Planck Temperature,Temperature,Absolute Hot. Physics breaks down above this.,1.4,x 10^32 °C,1.40E+32
+TM38,Pizza Oven,Temperature,For a Neapolitan pizza.,450,°C,450
+TM39,Cremation,Temperature,Required heat.,900,°C,900
+TM40,Bunsen Burner,Temperature,Blue flame.,1200,°C,1200
+TM41,Candle Flame,Temperature,"Yellow part is cooler, blue is hotter.",1000,°C,1000
+TM42,Deep Space,Temperature,Cosmic Microwave Background.,-270,°C,-270.4
+TM43,Surface of Mercury (Day),Temperature,Hot enough to melt lead.,430,°C,430
+TM44,Oven (Baking),Temperature,Standard 350°F.,180,°C,180
+TM45,Hot Tub,Temperature,Safe limit.,40,°C,40
+TM46,Coldest Shower,Temperature,Unpleasant.,10,°C,10
+TM47,Coffee (Serving),Temperature,Don't burn your tongue.,70,°C,70
+TM48,Steak (Medium Rare),Temperature,Internal temp.,54,°C,54
+TM49,Chicken (Cooked Safe),Temperature,Salmonella killed.,74,°C,74
+TM50,Sous Vide Egg,Temperature,The perfect yolk.,63,°C,63

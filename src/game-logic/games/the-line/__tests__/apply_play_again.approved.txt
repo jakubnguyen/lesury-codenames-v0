@@ -1,0 +1,18 @@
+{
+  "deckLength": 0,
+  "lineLength": 0,
+  "playQueue": [
+    "player1",
+    "player2",
+    "player3"
+  ],
+  "roundLimit": 5,
+  "scores": {},
+  "selectedCategory": "Weight",
+  "status": "setup",
+  "usedCardIds": [
+    "W01",
+    "W02",
+    "W03"
+  ]
+}

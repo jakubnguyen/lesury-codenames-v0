@@ -1,0 +1,7 @@
+{
+  "activePlayerId": "player2",
+  "deckLength": 1,
+  "hasActiveEvent": true,
+  "roundIndex": 1,
+  "status": "playing"
+}

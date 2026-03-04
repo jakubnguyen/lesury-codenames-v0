@@ -1,0 +1,7 @@
+{
+  "lastAction": "success",
+  "lineLength": 4,
+  "placedCorrect": true,
+  "score": 1,
+  "status": "revealing"
+}

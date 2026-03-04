@@ -1,0 +1,6 @@
+{
+  "activePlayerId": "player1",
+  "hasActiveEvent": true,
+  "status": "placing",
+  "usedEventIdsCount": 2
+}
