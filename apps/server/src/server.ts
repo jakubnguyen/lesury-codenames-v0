@@ -542,11 +542,27 @@ export default class Server implements Party.Server {
             const deviceType = ((sender.state as any)?.deviceType as string | undefined) || '';
 
             if (msg.type === 'start_game' || msg.type === 'play_again') {
-                if (sender.id !== this.state.room.hostId) return;
+                if (sender.id !== this.state.room.hostId) {
+                    console.warn(
+                        `[handleOneWordMessage] Ignoring ${msg.type}: sender ${sender.id} is not current host ${this.state.room.hostId}`
+                    );
+                    return;
+                }
             }
 
-            if (msg.type === 'submit_number' && deviceType !== 'spymaster') return;
-            if ((msg.type === 'guess_word' || msg.type === 'skip_turn') && deviceType !== 'player') return;
+            if (msg.type === 'submit_number' && deviceType !== 'spymaster') {
+                console.warn(
+                    `[handleOneWordMessage] Ignoring submit_number: deviceType=${deviceType || 'unknown'}`
+                );
+                return;
+            }
+
+            if ((msg.type === 'guess_word' || msg.type === 'skip_turn') && deviceType !== 'player') {
+                console.warn(
+                    `[handleOneWordMessage] Ignoring ${msg.type}: deviceType=${deviceType || 'unknown'}`
+                );
+                return;
+            }
 
             gameState = applyOneWordMessage(gameState, msg);
             this.state.game = gameState;

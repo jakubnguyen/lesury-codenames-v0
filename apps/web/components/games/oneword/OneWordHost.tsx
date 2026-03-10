@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import QRCode from 'qrcode';
 import { GameHeader } from '@/components/games/GameHeader';
@@ -61,6 +61,38 @@ export default function OneWordHost({ state, socket }: Props) {
     }
   }, [game.phase]);
 
+  const getSocket = useCallback(() => {
+    const windowSocket =
+      typeof window !== 'undefined' ? ((window as any).__partySocket as PartySocket | null) : null;
+    const isOpen = (candidate: PartySocket | null | undefined) => candidate?.readyState === 1;
+
+    if (isOpen(windowSocket)) return windowSocket;
+    if (isOpen(socket)) return socket;
+    return windowSocket ?? socket ?? null;
+  }, [socket]);
+
+  const sendHostMessage = useCallback(
+    (message: { type: 'start_game'; language: OneWordLanguage } | { type: 'play_again' }) => {
+      const liveSocket = getSocket();
+
+      if (!liveSocket) {
+        console.warn('[OneWordHost] Host action ignored: no socket available', message);
+        return;
+      }
+
+      if (liveSocket.readyState !== 1) {
+        console.warn('[OneWordHost] Host action ignored: socket is not open', {
+          message,
+          readyState: liveSocket.readyState,
+        });
+        return;
+      }
+
+      liveSocket.send(JSON.stringify(message));
+    },
+    [getSocket]
+  );
+
   if (game.phase === 'lobby') {
     return (
       <div className="min-h-screen bg-background flex flex-col items-center justify-center p-6 gap-4 relative">
@@ -120,7 +152,7 @@ export default function OneWordHost({ state, socket }: Props) {
             <Button
               type="button"
               disabled={!canStart}
-              onClick={() => socket?.send(JSON.stringify({ type: 'start_game', language }))}
+              onClick={() => sendHostMessage({ type: 'start_game', language })}
               className="w-full h-auto py-4 rounded-full text-lg font-bold"
             >
               {canStart ? 'Start Game (2 devices)' : 'Start Game'}
@@ -164,7 +196,12 @@ export default function OneWordHost({ state, socket }: Props) {
             </div>
           </div>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button className="flex-1 h-auto py-4 rounded-xl text-lg font-bold shadow-lg" onClick={() => socket?.send(JSON.stringify({ type: 'play_again' }))}>Play Again</Button>
+            <Button
+              className="flex-1 h-auto py-4 rounded-xl text-lg font-bold shadow-lg"
+              onClick={() => sendHostMessage({ type: 'play_again' })}
+            >
+              Play Again
+            </Button>
             <Button asChild variant="secondary" className="flex-1 h-auto py-4 rounded-xl text-lg font-bold shadow-lg"><a href="/games/oneword">Home</a></Button>
           </div>
         </motion.div>
