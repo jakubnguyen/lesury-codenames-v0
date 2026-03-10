@@ -1,0 +1,8 @@
+{
+  "currentTeam": "blue",
+  "guessesRemaining": 0,
+  "lastAction": "Red hit a neutral card",
+  "phase": "blue_briefing",
+  "revealed": true,
+  "submittedNumber": null
+}

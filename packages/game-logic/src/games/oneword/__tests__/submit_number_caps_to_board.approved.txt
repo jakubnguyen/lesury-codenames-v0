@@ -1,0 +1,6 @@
+{
+  "guessesRemaining": 20,
+  "lastAction": "Red team guessing (20)",
+  "phase": "red_guessing",
+  "submittedNumber": 20
+}

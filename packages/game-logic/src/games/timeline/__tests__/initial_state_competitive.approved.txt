@@ -1,0 +1,4 @@
+{
+  "cardsGoal": 15,
+  "mode": "competitive"
+}

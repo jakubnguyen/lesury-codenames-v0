@@ -1,0 +1,9 @@
+{
+  "p1Shot": {
+    "direction": "right",
+    "hit": "p2",
+    "playerId": "p1",
+    "type": "shoot"
+  },
+  "p2Hp": 2
+}

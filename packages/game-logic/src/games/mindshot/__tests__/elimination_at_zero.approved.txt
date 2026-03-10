@@ -1,0 +1,4 @@
+{
+  "p1Hp": 0,
+  "p1Status": "eliminated"
+}

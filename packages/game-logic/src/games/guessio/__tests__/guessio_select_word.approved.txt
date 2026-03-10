@@ -1,0 +1,92 @@
+{
+  "activeCategory": "description",
+  "activePlayerId": "p1",
+  "board": [
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description"
+  ],
+  "chosenBet": 3,
+  "chosenWord": "Apple",
+  "currentOptionsForType": [
+    "Apple",
+    "House",
+    "Tree"
+  ],
+  "phase": "playing",
+  "players": {
+    "p1": {
+      "id": "p1",
+      "isHost": false,
+      "name": "Player p1",
+      "teamId": "t1"
+    },
+    "p2": {
+      "id": "p2",
+      "isHost": false,
+      "name": "Player p2",
+      "teamId": "t2"
+    }
+  },
+  "scores": {
+    "t1": 0,
+    "t2": 0
+  },
+  "status": "recording_resolution",
+  "teams": {
+    "t1": [
+      "p1"
+    ],
+    "t2": [
+      "p2"
+    ]
+  },
+  "timerStartAt": 1000
+}

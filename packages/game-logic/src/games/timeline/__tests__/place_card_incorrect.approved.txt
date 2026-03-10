@@ -1,0 +1,6 @@
+{
+  "correctPosition": 1,
+  "lastCorrect": false,
+  "lives": 2,
+  "status": "revealing"
+}

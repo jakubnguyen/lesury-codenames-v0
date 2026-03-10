@@ -1,0 +1,14 @@
+{
+  "statuses": [
+    {
+      "actionsNull": true,
+      "lockedIn": false,
+      "status": "alive"
+    },
+    {
+      "actionsNull": true,
+      "lockedIn": false,
+      "status": "alive"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+    "extends": "../../packages/config/typescript/partykit.json",
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}

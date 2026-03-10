@@ -1,0 +1,34 @@
+name: Deploy PartyKit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/deploy-partykit.yml'
+      - 'apps/server/**'
+      - 'packages/game-logic/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Build dependencies
+        run: npx turbo run build --filter=@lesury/game-logic
+      - name: Deploy to PartyKit
+        working-directory: apps/server
+        run: |
+          echo "Deploying PartyKit from $(pwd)"
+          echo "PARTYKIT_LOGIN: $PARTYKIT_LOGIN"
+          npx partykit deploy
+        env:
+          PARTYKIT_TOKEN: ${{ secrets.PARTYKIT_TOKEN }}
+          PARTYKIT_LOGIN: ${{ secrets.PARTYKIT_LOGIN }}

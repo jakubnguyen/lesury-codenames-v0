@@ -1,0 +1,6 @@
+{
+  "activatedCount": 2,
+  "cell00": "danger",
+  "cell01": "danger",
+  "warningCount": 9
+}

@@ -1,0 +1,4 @@
+{
+  "hasSteps": true,
+  "phase": "resolution-move1"
+}

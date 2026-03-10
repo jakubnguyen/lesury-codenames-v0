@@ -1,0 +1,4 @@
+{
+  "proposedPosition": 1,
+  "status": "placing"
+}

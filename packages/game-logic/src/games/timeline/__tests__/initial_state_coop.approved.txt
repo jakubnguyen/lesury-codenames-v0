@@ -1,0 +1,12 @@
+{
+  "activeEvent": null,
+  "activePlayerId": "",
+  "cardsGoal": 10,
+  "cardsPlaced": 1,
+  "lives": 3,
+  "mode": "coop",
+  "placedEventsCount": 1,
+  "playerScores": {},
+  "proposedPosition": 0,
+  "status": "waiting"
+}

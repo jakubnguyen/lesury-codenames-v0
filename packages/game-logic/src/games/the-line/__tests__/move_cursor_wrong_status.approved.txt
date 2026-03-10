@@ -1,0 +1,4 @@
+{
+  "cursorIndex": 0,
+  "status": "revealing"
+}

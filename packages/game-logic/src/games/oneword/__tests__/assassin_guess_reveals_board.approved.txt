@@ -1,0 +1,7 @@
+{
+  "assassinRevealed": true,
+  "hiddenCards": 0,
+  "phase": "game_over",
+  "winReason": "assassin",
+  "winner": "blue"
+}

@@ -1,0 +1,10 @@
+{
+  "p1AfterMove1": {
+    "col": 0,
+    "row": 0
+  },
+  "p1AfterMove2": {
+    "col": 0,
+    "row": 0
+  }
+}

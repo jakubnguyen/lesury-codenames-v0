@@ -1,0 +1,5 @@
+{
+  "p1Status": "eliminated",
+  "p2Status": "eliminated",
+  "winner": null
+}

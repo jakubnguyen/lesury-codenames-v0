@@ -1,0 +1,7 @@
+{
+  "allSafe": true,
+  "phase": "lobby",
+  "playerCount": 2,
+  "round": 0,
+  "winner": null
+}

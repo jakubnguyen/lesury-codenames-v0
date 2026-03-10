@@ -1,0 +1,8 @@
+{
+  "p1Shot": {
+    "direction": "up",
+    "hit": null,
+    "playerId": "p1",
+    "type": "shoot"
+  }
+}

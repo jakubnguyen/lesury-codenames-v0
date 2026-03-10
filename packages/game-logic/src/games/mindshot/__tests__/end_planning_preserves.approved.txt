@@ -1,0 +1,4 @@
+{
+  "p1Move1": "right",
+  "p2Move1": "stay"
+}

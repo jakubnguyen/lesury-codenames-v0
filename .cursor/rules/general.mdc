@@ -1,0 +1,66 @@
+---
+description: General coding standards and tech stack conventions for Lesury
+alwaysApply: true
+---
+
+# General Project Rules
+
+## Tech Stack
+Lesury is a **Turbo monorepo** with npm workspaces. The core stack is **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS v4**, **ShadCN UI **, **PartyKit** (real-time server), **Framer Motion**, and **partysocket**.
+
+### Monorepo Structure
+- `apps/web` — Next.js web app (TV host screens + phone player screens)
+- `apps/server` — PartyKit real-time server for game state sync via WebSockets
+- `packages/game-logic` — Shared pure game logic (used by both web and server)
+- `packages/config` — Shared ESLint and TypeScript configs
+
+## Reuse Existing Components — CRITICAL
+- **Before creating any new component, always check if an equivalent already exists.** Search `components/` and `app/components/` first.
+- **Never recreate or duplicate functionality** that is already provided by an existing component, ShadCN UI primitive, or game-logic function.
+- Only create new files when the needed functionality genuinely does not exist in the codebase.
+- If a ShadCN component is not yet installed, add it via `npx shadcn@latest add <component>` in `apps/web`.
+
+
+## Icons
+- **Use Lucide icons** (`lucide-react`) — this is the ShadCN default icon library configured in `components.json`.
+- For game-specific custom icons, inline SVG components are acceptable.
+
+## Typography & Fonts
+- **Use the Source Code Pro font** (loaded via `next/font/google` in `app/layout.tsx`, exposed as `--font-source-code-pro`).
+- All three font families (`--font-sans`, `--font-mono`, `--font-serif`) are mapped to Source Code Pro in the Tailwind theme.
+- Apply font weights intentionally: `font-normal` (400) for body, `font-medium` (500) for labels, `font-semibold` (600) / `font-bold` (700) for headings.
+
+## Styling
+- **Use Tailwind CSS v4 utility classes.** No `tailwind.config.js` — configuration lives in `globals.css` via `@theme inline`.
+- Never write custom CSS files or inline `style={{}}` props unless absolutely unavoidable.
+- Use the project's design tokens (CSS variables) for colors — never hardcode hex values.
+- Follow a mobile-first approach: default styles for mobile, `md:` and `lg:` for larger screens.
+- Use **Framer Motion** for animations (`framer-motion`).
+
+## TypeScript
+- **Always use TypeScript.** Never use `.js` or `.jsx` files.
+- Avoid `any`. Use proper types or `unknown` with type narrowing.
+- Game types are defined within `packages/game-logic/src/games/<game>/types.ts`.
+
+## File & Folder Structure
+- Pages and layouts go in `apps/web/app/` (App Router conventions).
+- Reusable components go in `apps/web/components/`.
+- Utility functions go in `apps/web/lib/`.
+- Game logic lives in `packages/game-logic/src/games/<game-name>/`.
+
+## Game Architecture Pattern
+Each game follows this structure:
+- **Landing page:** `app/games/<game>/page.tsx` — game description and start/join UI.
+- **Host page:** `app/games/<game>/host/page.tsx` — TV screen view (renders `<Game>Host` component).
+- **Player page:** `app/games/<game>/player/page.tsx` — phone controller view (renders `<Game>Player` component).
+- **Host component:** `components/games/<game>/<Game>Host.tsx` — game board/display logic.
+- **Player component:** `components/games/<game>/<Game>Player.tsx` — player controls/input logic.
+- **Game logic:** `packages/game-logic/src/games/<game>/` — pure state machine, reducer, types.
+- **Server handler:** `apps/server/src/server.ts` — PartyKit WebSocket message routing.
+
+When adding a new game, follow this exact pattern. Reuse `GameLayout`, `RoomHost`, and `RoomPlayer` components.
+
+## Real-Time Communication
+- The server uses **PartyKit** for WebSocket-based real-time game state.
+- The web app connects via **partysocket** (`PartySocket`).
+- Game state is managed server-side; clients send actions and receive state updates.

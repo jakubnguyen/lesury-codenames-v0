@@ -1,0 +1,14 @@
+{
+  "hasSteps": true,
+  "p1Actions": {
+    "move1": "stay",
+    "move2": "stay",
+    "shoot": "skip"
+  },
+  "p2Actions": {
+    "move1": "stay",
+    "move2": "stay",
+    "shoot": "skip"
+  },
+  "phase": "resolution-move1"
+}

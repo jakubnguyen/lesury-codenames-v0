@@ -1,0 +1,10 @@
+{
+  "large": {
+    "boardSize": 12,
+    "shrinkCount": 13
+  },
+  "small": {
+    "boardSize": 8,
+    "shrinkCount": 6
+  }
+}

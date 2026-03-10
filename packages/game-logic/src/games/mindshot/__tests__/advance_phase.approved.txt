@@ -1,0 +1,5 @@
+{
+  "currentStep": 1,
+  "firstPhase": "resolution-move1",
+  "secondPhase": "resolution-move2"
+}

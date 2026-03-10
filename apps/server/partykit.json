@@ -1,0 +1,10 @@
+{
+    "$schema": "https://www.partykit.io/schema.json",
+    "name": "lesury",
+    "main": "src/server.ts",
+    "compatibilityDate": "2026-02-08",
+    "serve": {
+        "path": "public",
+        "build": "src/client.ts"
+    }
+}

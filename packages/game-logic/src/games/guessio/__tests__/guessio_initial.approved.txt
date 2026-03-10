@@ -1,0 +1,103 @@
+{
+  "activeCategory": "description",
+  "activePlayerId": "pA1",
+  "board": [
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description",
+    "description"
+  ],
+  "currentOptionsForType": [
+    "Apple",
+    "House",
+    "Tree"
+  ],
+  "phase": "playing",
+  "players": {
+    "pA1": {
+      "id": "pA1",
+      "isHost": false,
+      "name": "Player pA1",
+      "teamId": "teamA"
+    },
+    "pA2": {
+      "id": "pA2",
+      "isHost": false,
+      "name": "Player pA2",
+      "teamId": "teamA"
+    },
+    "pB1": {
+      "id": "pB1",
+      "isHost": false,
+      "name": "Player pB1",
+      "teamId": "teamB"
+    },
+    "pB2": {
+      "id": "pB2",
+      "isHost": false,
+      "name": "Player pB2",
+      "teamId": "teamB"
+    }
+  },
+  "scores": {
+    "teamA": 0,
+    "teamB": 0
+  },
+  "status": "choosing",
+  "teams": {
+    "teamA": [
+      "pA1",
+      "pA2"
+    ],
+    "teamB": [
+      "pB1",
+      "pB2"
+    ]
+  }
+}

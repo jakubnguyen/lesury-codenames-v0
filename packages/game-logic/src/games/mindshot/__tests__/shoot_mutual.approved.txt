@@ -1,0 +1,5 @@
+{
+  "bothHit": true,
+  "p1Hp": 2,
+  "p2Hp": 2
+}

@@ -1,0 +1,6 @@
+{
+  "p1HasActions": true,
+  "p1LockedIn": true,
+  "p2LockedIn": false,
+  "phase": "planning"
+}

@@ -1,0 +1,8 @@
+{
+  "insertedAtIndex": 1,
+  "lastAction": "fail",
+  "lineLength": 4,
+  "placedCorrect": false,
+  "score": 0,
+  "status": "revealing"
+}

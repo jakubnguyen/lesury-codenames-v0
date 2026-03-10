@@ -1,0 +1,20 @@
+{
+  "activePlayerId": "player1",
+  "hasActiveEvent": true,
+  "lineLength": 1,
+  "playQueue": [
+    "player1",
+    "player2",
+    "player3"
+  ],
+  "roundIndex": 1,
+  "roundLimit": 5,
+  "scores": {
+    "player1": 0,
+    "player2": 0,
+    "player3": 0
+  },
+  "seedPlacedBy": "system",
+  "selectedCategory": "Weight",
+  "status": "playing"
+}

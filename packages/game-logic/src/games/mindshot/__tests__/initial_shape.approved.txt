@@ -1,0 +1,9 @@
+{
+  "arenaSize": "medium",
+  "gridSize": 10,
+  "phase": "lobby",
+  "planningDuration": 20,
+  "playerCount": 2,
+  "round": 0,
+  "winner": null
+}

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.next/
+out/
+.turbo/
+.partykit/
+
+# Misc
+*.tsbuildinfo
+package-lock.json
